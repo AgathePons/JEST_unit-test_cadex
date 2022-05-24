@@ -1,13 +1,5 @@
-# Testing some useful tools
+# Testing unit tests
 
 ## JEST
 
 Unit test, with **[JEST](https://jestjs.io/)**
-
-## JOI
-
-Schemas validation for data compliance, with **[JOI](https://joi.dev/)**
-
-## Debug
-
-Advanced console logs, with **[DEBUG](https://www.npmjs.com/package/debug)**
